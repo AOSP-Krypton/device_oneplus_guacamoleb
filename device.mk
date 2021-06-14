@@ -34,6 +34,10 @@ OFFICIAL_BUILD := true
 PRODUCT_PACKAGES += \
     RemovePackagesDevice
 
+# NoCutout
+PRODUCT_PACKAGES += \
+    NoCutoutOverlay
+
 # Vibrator
 PRODUCT_PACKAGES += \
     vendor.qti.hardware.vibrator.service.oneplus
