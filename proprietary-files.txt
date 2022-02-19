@@ -222,3 +222,6 @@ vendor/etc/sensors/config/tcs3701.json
 vendor/etc/sensors/sns_reg_config
 vendor/lib/sensors.ssc.so
 vendor/lib64/sensors.ssc.so
+
+# Vibrator HAL
+vendor/lib64/hw/vibrator.default.so|ce6eb19a124c07c8b2af84898d74c87a
