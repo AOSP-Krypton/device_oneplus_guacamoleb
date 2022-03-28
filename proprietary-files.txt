@@ -223,5 +223,5 @@ vendor/etc/sensors/sns_reg_config
 vendor/lib/sensors.ssc.so
 vendor/lib64/sensors.ssc.so
 
-# Vibrator HAL from guacamoleb-user-10-QKQ1.190716.003 2101212213 release-keys 
-vendor/lib64/hw/vibrator.default.so|f4b09524bbd1b4c7a91191d5793ae000e3cde0af
+# Vibrator HAL
+vendor/lib64/hw/vibrator.default.so|ce6eb19a124c07c8b2af84898d74c87a
