@@ -1,0 +1,6 @@
+[
+  {
+    "repository"  : "vendor_oneplus_guacamoleb",
+    "target_path" : "vendor/oneplus/guacamoleb"
+  }
+]
