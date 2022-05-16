@@ -225,3 +225,9 @@ vendor/etc/sensors/config/tcs3701.json
 vendor/etc/sensors/sns_reg_config
 vendor/lib/sensors.ssc.so
 vendor/lib64/sensors.ssc.so
+
+# Vibrator
+vendor/bin/hw/vendor.qti.hardware.vibrator@1.2-service
+vendor/etc/init/vendor.qti.hardware.vibrator@1.2-service.rc
+vendor/lib/hw/vibrator.default.so
+vendor/lib64/hw/vibrator.default.so
