@@ -28,8 +28,11 @@ PRODUCT_CHARACTERISTICS := nosdcard
 PRODUCT_SYSTEM_NAME := OnePlus7
 PRODUCT_SYSTEM_DEVICE := OnePlus7
 
-#GAPPS
+# GAPPS
 GAPPS_BUILD := true
+
+# Lawnchair
+TARGET_BUILD_LAWNCHAIR := true
 
 # Boot animation
 scr_resolution := 1080
